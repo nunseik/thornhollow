@@ -2,6 +2,8 @@
 
 A fantasy novel about Theron Ashborne, a wizard who escapes from the Witch of Thornhollow's dungeon and teams up with unlikely allies to rescue a kidnapped girl and stop a dark ritual.
 
+Read the novel here:[tornhollow-tale.md](tornhollow-tale.md)
+
 ## Project Status
 
 **Technical Conversion:** ✅ Complete
